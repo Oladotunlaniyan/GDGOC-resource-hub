@@ -34,6 +34,15 @@
             ]
           },
           {
+            "group": "Programming Languages",
+            "pages": [
+              "languages/python",
+              "languages/javascript",
+              "languages/typescript",
+              "languages/dart"
+            ]
+          },
+          {
             "group": "Event Resources",
             "pages": [
               "events/devfest",
