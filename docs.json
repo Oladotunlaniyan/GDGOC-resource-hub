@@ -58,6 +58,12 @@
               "career/linkedin-guide",
               "career/resume-template"
             ]
+          },
+          {
+            "group": "Job Hunting",
+            "pages": [
+              "job-hunting/resume"
+            ]
           }
         ]
       }
