@@ -8,7 +8,7 @@
 
 The GDGOC Unilorin Resource Hub is a Mintlify-powered documentation site designed to provide well-organized, accessible, and easily maintainable learning resources for the Google Developer Groups On Campus (GDGOC) community at the University of Ilorin.
 
-📚 **[Visit the live page](https://gdgocunilorin.mintlify.app)** | 🌐 **[GDGOC Unilorin](https://gdg.community.dev/university-of-ilorin/)**
+📚 **[Visit the live page](https://gdgocunilorin.mintlify.app)** | 🌐 **[GDGOC Unilorin](https://gdg.community.dev/gdg-on-campus-university-of-ilorin-ilorin-nigeria/)**
 
 ---
 
@@ -384,7 +384,7 @@ console.log("Hello, GDGOC!");
 ### Need Help?
 
 - 📧 **Email**: [gdgocunilorin@gmail.com](mailto:gdgocunilorin@gmail.com)
-- 🌐 **Community**: [GDGOC Unilorin](https://gdg.community.dev/university-of-ilorin/)
+- 🌐 **Community**: [GDGOC Unilorin](https://gdg.community.dev/gdg-on-campus-university-of-ilorin-ilorin-nigeria/)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Oladotunlaniyan/GDGOC-resource-hub/issues)
 
 ### Troubleshooting
